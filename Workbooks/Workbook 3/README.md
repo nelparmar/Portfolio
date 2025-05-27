@@ -4,7 +4,7 @@ Hi 👋 My name is Nelesh Parmar
 Data Analyst/ Technician
 ------------------------
 
-I wanted to take this opportunity to showcase my workbook 3 where I am learning about Data analysis from Databases (NoSQL) and SQL to gain an insight into data analytics of a business.
+I wanted to take this opportunity to showcase my workbook 3 where I am learning about Data analysis from Databases, such as MySQL to gain an insight into data analytics of a business.
 
 * 🌍  I'm based in East Midlands - Leicester
 * 🖥️  See my portfolio at [https://github.com/nelparmar/Portfolio](http://github.com/nelparmar/Portfolio)
