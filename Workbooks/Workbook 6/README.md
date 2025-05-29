@@ -1,15 +1,10 @@
-Hi 👋 My name is Nelesh Parmar
-==============================
+Data analysis using Python.
 
-Data Analyst/ Technician
-------------------------
-
-I wanted to take this opportunity to showcase my workbook 6 where I am learning about Data analysis using Phython to gain an insight into data analytics of a business.
-
-* 🌍  I'm based in East Midlands - Leicester
-* 🖥️  See my portfolio at [https://github.com/nelparmar/Portfolio](http://github.com/nelparmar/Portfolio)
-* ✉️  You can contact me at [neilparmar@hotmail.com](mailto:neilparmar@hotmail.com)
-* 🧠  I'm learning Data Analytics
+Importing and manipulating datasets using Pandas DataFrames.
+Applying NumPy for numerical operations and statistical analysis.
+Using Matplotlib to created visualisations (e.g., bar charts and line graphs).
+Cleaning and transforming raw data (e.g., handling null values, formatting).
+Obtaining statistics on financial stability and development outcomes.
 
 ### Skills
 
