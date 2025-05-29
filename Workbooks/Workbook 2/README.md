@@ -1,15 +1,8 @@
-Hi 👋 My name is Nelesh Parmar
-==============================
+Data analysis using visualisation with Tableau and Power BI to helps users turn raw data into interactive, visual dashboards and reports, making insights much easier to see and understand - even for non-technical users. 
 
-Data Analyst/ Technician
-------------------------
-
-I wanted to take this opportunity to showcase my workbook 2 where I am learning about Data analysis using Visualisation tools Tableau and Power BI to gain an insight into data analytics of a business.
-
-* 🌍  I'm based in East Midlands - Leicester
-* 🖥️  See my portfolio at [https://github.com/nelparmar/Portfolio](http://github.com/nelparmar/Portfolio)
-* ✉️  You can contact me at [neilparmar@hotmail.com](mailto:neilparmar@hotmail.com)
-* 🧠  I'm learning Data Analytics
+Help to find trends and key information that could be used by an organisation for future projects.
+Append and Merge queries in Power BI.
+Collaboration board.
 
 ### Skills
 
