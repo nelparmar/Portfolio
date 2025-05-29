@@ -1,4 +1,4 @@
-Data analysis using Python. 
+Data analysis using Python
 ------------------------
 
 Importing and manipulating datasets using Pandas DataFrames. Applying NumPy for numerical operations and statistical analysis. Using Matplotlib to created visualisations (e.g., bar charts and line graphs). Cleaning and transforming raw data (e.g., handling null values, formatting). Obtaining statistics on financial stability and development outcomes.
