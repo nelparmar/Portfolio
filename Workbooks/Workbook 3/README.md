@@ -1,11 +1,8 @@
-Data analysis using Databases, such as MySQL. 
+Data analysis using Databases, such as MySQL
+--------------------------------------------
 
-Primary and foreign keys relations.
-Difference between a relational and non-relational databases.
-Examples of 'JOIN' types.
-Understanding the Business Requirements.
-Creation of relational database.
-Accessing precise metrics via structured data queries.
+Primary and foreign keys relations. Difference between a relational and non-relational databases. Examples of 'JOIN' types.
+Understanding the Business Requirements. Creation of relational database. Accessing precise metrics via structured data queries.
 
 ### Skills
 
