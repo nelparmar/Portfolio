@@ -1,15 +1,13 @@
-Hi 👋 My name is Nelesh Parmar
-==============================
+Data analysis using Cloud computing and Azure.
 
-Data Analyst/ Technician
-------------------------
-
-I wanted to take this opportunity to showcase my workbook 5 where I am learning about Data analysis and Visualisations via Cloud computing and Azure tools to gain an insight into data analytics of a business.
-
-* 🌍  I'm based in East Midlands - Leicester
-* 🖥️  See my portfolio at [https://github.com/nelparmar/Portfolio](http://github.com/nelparmar/Portfolio)
-* ✉️  You can contact me at [neilparmar@hotmail.com](mailto:neilparmar@hotmail.com)
-* 🧠  I'm learning Data Analytics
+Cloud computing real-world uses.
+Benefits of Cloud computing for a business.
+Cloud providers.
+Cloud offerings and types.
+Laws such as, Computer misuse act 1990, Copyright, Designs and Patents Act 1988 and more.
+Example of infringement.
+Azure relational and non relational (Cosmos) database queries.
+Proposal for transitioning business to Microsoft Azure.
 
 ### Skills
 
