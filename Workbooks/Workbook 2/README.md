@@ -1,4 +1,7 @@
-Data analysis using visualisation with Tableau and Power BI to helps users turn raw data into interactive, visual dashboards and reports, making insights much easier to see and understand - even for non-technical users. 
+Data analysis using visualisation with Tableau and Power BI
+-------------------------------------------------------------
+
+Turn raw data into interactive, visual dashboards and reports, making insights much easier to see and understand - even for non-technical users. 
 
 Help to find trends and key information that could be used by an organisation for future projects.
 Append and Merge queries in Power BI.
