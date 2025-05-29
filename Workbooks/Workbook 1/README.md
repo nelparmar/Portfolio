@@ -1,15 +1,12 @@
-Hi 👋 My name is Nelesh Parmar
-==============================
+Data analysis using Excel spreadsheet.
 
-Data Analyst/ Technician
-------------------------
-
-I am currently upskilling to become a Data Analyst and for the past 2 months have enrolled on a Data Analysis Bootcamp with JustIT. I wanted to take this opportunity to showcase my workbook 1 where I am learning about Data analysis using Excel tool to gain an insight into data analytics of a business.
-
-* 🌍  I'm based in East Midlands - Leicester
-* 🖥️  See my portfolio at [https://github.com/nelparmar/Portfolio](http://github.com/nelparmar/Portfolio)
-* ✉️  You can contact me at [neilparmar@hotmail.com](mailto:neilparmar@hotmail.com)
-* 🧠  I'm learning Data Analytics
+We are reviewing commons laws and regulations that must be followed when working with customers data.
+Converting Excel data into a table for Data analysis.
+Use of 'filter', ‘sort’, ‘SUM’, ‘AVERAGE’ functions against Dataset.
+'Switch' function for categorisation.
+Use of Pivot Tables to segment data.
+Use of Pivot Charts for visualisation of the segmented data.
+Delivery your analysis findings to senior stakeholders.
 
 ### Skills
 
