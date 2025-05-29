@@ -1,4 +1,5 @@
-Data analysis using Excel spreadsheet.
+Data analysis using Excel spreadsheet
+-------------------------------------
 
 We are reviewing commons laws and regulations that must be followed when working with customers data.
 Converting Excel data into a table for Data analysis.
