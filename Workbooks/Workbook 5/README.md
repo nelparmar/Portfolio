@@ -1,13 +1,9 @@
-Data analysis using Cloud computing and Azure.
+Data analysis using Cloud computing and Azure
+---------------------------------------------
 
-Cloud computing real-world uses.
-Benefits of Cloud computing for a business.
-Cloud providers.
-Cloud offerings and types.
-Laws such as, Computer misuse act 1990, Copyright, Designs and Patents Act 1988 and more.
-Example of infringement.
-Azure relational and non relational (Cosmos) database queries.
-Proposal for transitioning business to Microsoft Azure.
+Cloud computing real-world uses. Benefits of Cloud computing for a business. Cloud providers. Cloud offerings and types.
+Laws such as, Computer misuse act 1990, Copyright, Designs and Patents Act 1988 and more. Example of infringement.
+Azure relational and non relational (Cosmos) database queries. Proposal for transitioning business to Microsoft Azure.
 
 ### Skills
 
