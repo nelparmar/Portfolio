@@ -1,15 +1,11 @@
-Hi 👋 My name is Nelesh Parmar
-==============================
+Data analysis using Databases, such as MySQL. 
 
-Data Analyst/ Technician
-------------------------
-
-I wanted to take this opportunity to showcase my workbook 3 where I am learning about Data analysis from Databases, such as MySQL to gain an insight into data analytics of a business.
-
-* 🌍  I'm based in East Midlands - Leicester
-* 🖥️  See my portfolio at [https://github.com/nelparmar/Portfolio](http://github.com/nelparmar/Portfolio)
-* ✉️  You can contact me at [neilparmar@hotmail.com](mailto:neilparmar@hotmail.com)
-* 🧠  I'm learning Data Analytics
+Primary and foreign keys relations.
+Difference between a relational and non-relational databases.
+Examples of 'JOIN' types.
+Understanding the Business Requirements.
+Creation of relational database.
+Accessing precise metrics via structured data queries.
 
 ### Skills
 
